@@ -1,0 +1,13 @@
+#chartdiv {
+    width: 100%;
+    height: 300px;
+  }
+
+#chartdiv2 {
+    width: 100%;
+    height: 300px;
+  }
+
+.main-svg {
+  height: 600px;
+  }
